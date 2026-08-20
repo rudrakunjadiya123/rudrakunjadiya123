@@ -10,8 +10,8 @@
 ## 🚀 About Me
 
 - 💻 Software Engineer passionate about building scalable web applications.
-- 🚀 Software Engineer passionate about scalable web development.
-- 💡 Strong in DSA, backend engineering, and solving real-world problems.
+- 🚀 Intrested in Learning the new skills and growing.
+- 💡 Good in DSA, backend engineering, and solving real-world problems.
 - 🌱 Always learning, building, and growing with a product-first mindset.
 
 📫 **Reach me:** **rudrakunjadiya99@gmail.com**
