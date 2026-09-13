@@ -2,7 +2,7 @@
 <h3 align="center">Turning Ideas into Reality with Code 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning" />
 </p>
 
 ---
